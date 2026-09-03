@@ -1,21 +1,3 @@
-# Weekly Log
-## Description 
-- This file will be used to catalogue every weeks project log. The table of contents listed below will be updated as new weeks are recorded.
-
-## Week 1 
-- https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Lab%201/Week1.md
-- Group created, email sent out, contract signed, topic selected
-
-## Week 2 
-- TBD
-
-## Week 3
-- TBD
-
-
-
-
-
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
