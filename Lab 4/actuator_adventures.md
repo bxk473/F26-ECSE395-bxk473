@@ -30,7 +30,6 @@
 10. I completed and uploaded the Servo Motor.cpp code to the ESP32
 11. I modified different values and requested by the pdf and recorded the result
 12. I completed and uploaded the Servo Motor Random.cpp
-13. I completed and uploaded the Servo Motor Random EC.cpp
 14. I recorded steps, observations, code, etc. in the github folder  
 
 
