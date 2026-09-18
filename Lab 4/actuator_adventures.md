@@ -6,6 +6,9 @@
 - You can find code for the Servo Motor in:
 - Servo Motor.cpp and Servo Motor Random.cpp
 
+## Instructions: 
+- To run the code, use platformIO to build the code, then upload it to the ESP32 via usb-c. 
+
 
 ## Setup/Steps: 
 - Laptop: Lenovo ThinkPad P16s Gen 2 (AMD) 
