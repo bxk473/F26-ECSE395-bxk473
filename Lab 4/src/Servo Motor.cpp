@@ -2,14 +2,14 @@
 // Don't forget to include the library!!
 // From PlatfromIO library, search for ESP32 servo and add it to the project
 
-// Define the servo and the pin it is connected to, what is your servo pin?
+// (bxk473) define the servo and assign it to A0 as shown in the wiring diagram
 Servo myServo;
-const int servoPin = 0;
+const int servoPin = A0;
 
 // Define the minimum and maximum pulse widths for the servo
 const int minPulseWidth = 500; // 0.5 ms
 const int maxPulseWidth = 2500; // 2.5 ms
-
+ 
 void setup() {
   // Attach the servo to the specified pin and set its pulse width range
   myServo.attach(servoPin, minPulseWidth, maxPulseWidth);
@@ -30,7 +30,7 @@ void loop() {
   }
 
   // Rotate the servo from 180 to 0 degrees
-  for (int angle = 180; angle <= 0; angle--) {
+  for (int angle = 180; angle >= 0; angle--) {
     int pulseWidth;
     // the map function is a puction that maps 0 degrees to 500 pulse width, and 180 degrees to 2500 pulse width
     // map(angle, min angle, max angle, min pulse width, max pulse width)
