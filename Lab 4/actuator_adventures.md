@@ -17,6 +17,21 @@
 - I used platformIO to upload the code to the ESP32 microcontroller over a usb-c cable 
 - I followed the instructions included in the github template, the videos for the lab, and the skeleton code to drive the actuators 
 
+## Steps I took to complete the lab: 
+1. Before class, I set up the TT Motor circuit as described in the pdf.
+2. I attached the circuit to my own bench power power supply.
+3. I uploaded and ran the TT Motor.cpp code using platformIO
+4. I uploaded and ran the TT Motor Rotate.cpp
+5. I modified different values as requested in the pdf
+6. I recorded the results
+7. I modified and uploaded TT Motor EC to make the motor alternate between running clockwise and counterclockwise 
+8. I modified and uploaded TT Motor EC.cpp for the extra credit 
+9. In the lab, I set up the Servo Motor circuit as described in the pdf
+10. I completed and uploaded the Servo Motor.cpp code to the ESP32
+11. I modified different values and requested by the pdf and recorded the result
+12. I completed and uploaded the Servo Motor Random.cpp
+13. I completed and uploaded the Servo Motor Random EC.cpp
+14. I recorded steps, observations, code, etc. in the github folder  
 
 
 
