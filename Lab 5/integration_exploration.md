@@ -1,4 +1,4 @@
-# Lab 5: Actuators and Sensors 
+# Bennett Knesl: Lab 5 (Actuators and Sensors)
 ## Assignment: 
 - This is my last assignment working with the ESP32 microcontroller. I will assemble a custom design that integrates at least 1 sensor and at least 1 actuator.
 
@@ -6,6 +6,17 @@
 - Code will be uploaded over a USB-C cable using Visual Studio Code and PlatformIO.
 - OS: Windows 10 IoT LTSC
 - P16s Gen 2 AMD
+
+## Steps: 
+1. To setup this lab, I attached and ESP32 to a breadboard and then used wires to connect a servo, potentiometer, and power supply together.
+- I am using an servo and potentiometer as my actuator and sensor respectively.
+2. I wrote the code in Visual Studio Code using my previous labs as references.
+3. I uploaded the code to the ESP32 via platformIO and over a usb-c cable.
+
+## System Description: 
+- This system uses a potentiometer and servo to dynamically provide the user with a real-time ability to manually adjust the angle of the servo. It does this by reading a value from the potentiometer (from 0 to 4095), mapping that value to angle on the servo (0 to 180), and then pushing the servo to that angle every 10 ms. This allows the user to adjust the servo by rotating the knob on the potentiometer. 
+
+
 
 ## Contents: 
 - All code for this lab will be contained within the "main.cpp" file
