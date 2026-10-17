@@ -11,5 +11,5 @@ This repositry is a weekly log and the purpose of this repositry is to keep trac
 | Week 5| Brainstorming milestone, concept meeting and presentation with the stakeholder, and integrating sensors and actuators with the ESP32 https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week5.md
 | Week 6| Concept selection and gantt chart, begin work on system architecture and prototype https://github.com/bxk473/F26-ECSE395-bxk473/tree/main/Weekly%20project%20log
 | Week 7| System Architecture and Prototype Plan, Team check in, low-fidelity prototype 1 https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week7.md
-| Week 8| 
+| Week 8| Verification and Validation plan, Prototypes 1 and 2, Team check in https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week8.md
 
