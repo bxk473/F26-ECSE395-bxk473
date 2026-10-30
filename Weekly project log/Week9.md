@@ -1,4 +1,4 @@
-## Week 8 Work Summary 
+## Week 9 Work Summary 
 - Successfully completed prototype 3
 - Successfully completed the midterm presentation 
 - Began working on Prototypes 1, 2, and 3 report 
