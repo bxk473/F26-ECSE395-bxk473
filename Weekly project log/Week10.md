@@ -1,13 +1,16 @@
 ## Week 10 Work Summary 
-- Successfully completed prototype 3
-- Successfully completed the midterm presentation 
-- Began working on Prototypes 1, 2, and 3 report 
+- Successfully presented the midterm presentation in front of the class
+- Successfully completed the prototypes 1, 2, and 3 report
+- Began working on MVP
 
 ## Individual Contributions 
-- I picked up the 3D print from ThinkBox for prototype 3
-- I worked on the midterm presentation
+- I presented in the midterm presentation
+- I did a lot of the work on the prototype report
+- I contributed to the weekly check in
+- I worked on the MVP 
 
 ## Group Contributions 
-- Sameer ran the 3D printers
-- Brian designed the 3D print designs for the prototype
-- Sameer and Brian both worked on the midterm presentation 
+- Sameer and Brian both presented in the midterm presentation
+- Both Sameer and Brian contributed to the prototype report
+- Both Sameer and Brian worked on the MVP
+- Both Sameer and Brian contributed to the weekly check in 
