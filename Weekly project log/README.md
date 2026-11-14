@@ -15,3 +15,4 @@ This repositry is a weekly log and the purpose of this repositry is to keep trac
 | Week 9| Third prototype, midterm presentation, prototype report document https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week9.md
 | Week 10 | Prototype document submitted, midterm presentation presented, MVP started, weekly check in completed https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week10.md
 | Week 11 | MVP completed, validation testing started, weekly check in completed https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week11.md
+| Week 12 | Validation testing completed, weekly check in completed, data analysis started https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week12.md
