@@ -16,3 +16,4 @@ This repositry is a weekly log and the purpose of this repositry is to keep trac
 | Week 10 | Prototype document submitted, midterm presentation presented, MVP started, weekly check in completed https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week10.md
 | Week 11 | MVP completed, validation testing started, weekly check in completed https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week11.md
 | Week 12 | Validation testing completed, weekly check in completed, data analysis started https://github.com/bxk473/F26-ECSE395-bxk473/blob/main/Weekly%20project%20log/Week12.md
+| Week 13 | Final report almost finished, weekly check in completed, stakeholder feedback received https://github.com/bxk473/F26-ECSE395-bxk473/tree/main/Weekly%20project%20log
