@@ -1,7 +1,4 @@
 ## Week 12 Work Summary 
-- MVP successfully completed
-- Validation Testing started
-- Week 11 Team Progress Check completed 
 
 - Validation Testing Completed
 - Weekly Check in completed
